@@ -1,0 +1,20 @@
+﻿  Vector.cpp
+<<<<<<< HEAD
+C:\Users\Пользователь\source\repos\DynamicLib\DynamicLib\Vector.h(25,12): warning C4251: "Vector::_x": "Number" должен иметь dll-интерфейс для использования клиентами "Vector"
+  (компиляция исходного файла "Vector.cpp")
+      C:\Users\Пользователь\source\repos\StaticLib\StaticLib\Number.h(3,7):
+       см. объявление "Number"
+  
+C:\Users\Пользователь\source\repos\DynamicLib\DynamicLib\Vector.h(26,12): warning C4251: "Vector::_y": "Number" должен иметь dll-интерфейс для использования клиентами "Vector"
+  (компиляция исходного файла "Vector.cpp")
+      C:\Users\Пользователь\source\repos\StaticLib\StaticLib\Number.h(3,7):
+       см. объявление "Number"
+  
+=======
+C:\Users\Пользователь\source\repos\DynamicLib\DynamicLib\Vector.h(25,12): warning C4251: Vector::_x: class "Number" должен иметь dll-интерфейс для использования клиентами class "Vector"
+C:\Users\Пользователь\source\repos\StaticLib\StaticLib\Number.h(3): message : см. объявление "Number"
+C:\Users\Пользователь\source\repos\DynamicLib\DynamicLib\Vector.h(26,12): warning C4251: Vector::_y: class "Number" должен иметь dll-интерфейс для использования клиентами class "Vector"
+C:\Users\Пользователь\source\repos\StaticLib\StaticLib\Number.h(3): message : см. объявление "Number"
+>>>>>>> 952e0073bf568db52a3781493280d5ab27b8b543
+     Создается библиотека C:\Users\Пользователь\source\repos\DynamicLib\x64\Debug\DynamicLib.lib и объект C:\Users\Пользователь\source\repos\DynamicLib\x64\Debug\DynamicLib.exp
+  DynamicLib.vcxproj -> C:\Users\Пользователь\source\repos\DynamicLib\x64\Debug\DynamicLib.dll
